@@ -157,7 +157,7 @@ dependencies {
 }
 ```
 
-Nibo requires at minimum Android 4.1 (API Level 15).
+Nibo requires at minimum Android 4.1 (API Level 16).
 
 ### Manual
 - download project source
